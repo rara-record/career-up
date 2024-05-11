@@ -17,8 +17,7 @@
 **_UI 라이브러리 패키지 생성 및 설정_**
 
 - Source Code (<https://github.com/fc-micro-frontends/career-up/tree/step2>)
-- Notion Guide (<https://2woongjae.notion.site/>
-  UI-2ff9ecb4a6244a3bb58f060cc110f9d9)
+- Notion Guide (<https://2woongjae.notion.site/UI-2ff9ecb4a6244a3bb58f060cc110f9d9>)
 
 **_컴포넌트 제작 및 빌드_**
 
