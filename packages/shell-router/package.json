@@ -1,5 +1,5 @@
 {
-  "name": "@career-up/shell",
+  "name": "@career-up/shell-router",
   "private": true,
   "version": "0.0.0",
   "type": "module",
